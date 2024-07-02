@@ -5,7 +5,6 @@
     Welcome to my GitHub profile! I'm a passionate web developer with a love for creating dynamic and responsive websites. I enjoy working with both front-end and back-end technologies to build full-stack applications.
 </p>
 
-<hr>
 
 ## 🚀 About Me
 
@@ -14,7 +13,6 @@
 - 👯 I’m looking to collaborate on **Projects or Open Source Contributions**
 - 📫 How to reach me: **[anupam216825@gmail.com]**
 
-<hr>
 
 ## 🛠️ Skills
 
@@ -36,7 +34,6 @@
     <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
-<hr>
 
 ## 📈 GitHub Stats
 
@@ -48,7 +45,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupam2570632&theme=radical&hide_border=true" alt="GitHub Streak">
 </p>
 
-<hr>
 
 ## 📊 Most Used Languages
 
@@ -56,7 +52,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupam2570632&layout=compact&hide_border=true&theme=radical" alt="Top Langs">
 </p>
 
-<hr>
 
 ## 📫 Connect with Me
 
