@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
     <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm">
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git">
-    <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens" alt="JWT">
+     <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens" alt="JWT">
     <img src="https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" alt="Stripe">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
     <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
@@ -41,11 +41,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=anupam2570632&show_icons=true&hide_border=true&theme=radical&bg_color=ffffff00" alt="Your GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=anupam2570632&show_icons=true&hide_border=true&theme=radical" alt="Your GitHub Stats">
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupam2570632&theme=radical&hide_border=true&background=ffffff00" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupam2570632&theme=radical&hide_border=true" alt="GitHub Streak">
 </p>
 
 <hr>
@@ -53,7 +53,7 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupam2570632&layout=compact&hide_border=true&theme=radical&bg_color=ffffff00" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupam2570632&layout=compact&hide_border=true&theme=radical" alt="Top Langs">
 </p>
 
 <hr>
