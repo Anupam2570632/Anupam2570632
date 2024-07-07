@@ -54,8 +54,8 @@
 </p>
 
 <p align="center">
-    ![Views](https://img.shields.io/badge/dynamic/json?color=informational&label=views&query=value&url=https://api.countapi.xyz/hit/anupam216825/anupam.me)
-    ![Profile views](https://komarev.com/ghpvc/?username=anupam216825)
+    ![Views](https://img.shields.io/badge/dynamic/json?color=informational&label=views&query=value&url=https://api.countapi.xyz/hit/Anupam2570632/anupam.me)
+    ![Profile views](https://komarev.com/ghpvc/?username=Anupam2570632)
 </p>
 
 ## 📫 Connect with Me
