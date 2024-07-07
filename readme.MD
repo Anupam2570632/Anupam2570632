@@ -50,13 +50,9 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupam2570632&layout=compact&hide_border=true&theme=radical" alt="Top Langs">
-
+    <img src="https://komarev.com/ghpvc/?username=anupam2570632&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
-<p align="center">
-    ![Views](https://img.shields.io/badge/dynamic/json?color=informational&label=views&query=value&url=https://api.countapi.xyz/hit/Anupam2570632/anupam.me)
-    ![Profile views](https://komarev.com/ghpvc/?username=Anupam2570632)
-</p>
 
 ## 📫 Connect with Me
 
