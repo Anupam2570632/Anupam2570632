@@ -50,6 +50,7 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupam2570632&layout=compact&hide_border=true&theme=radical" alt="Top Langs">
+    ![Views](https://img.shields.io/badge/dynamic/json?color=informational&label=views&query=views&url=https://api.countapi.xyz/hit/anupam216825/anupam.me)
 </p>
 
 
