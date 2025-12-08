@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 💼 I’m currently studying **Computer Science & Engineering in the 2nd year at Begum Rokeya University, Rangpur**.
+- 💼 I’m currently studying **Computer Science & Engineering in the 3rd year at Begum Rokeya University, Rangpur**.
 - 🌱 I’m looking for **job and internship opportunities**.
 - 👯 I’m looking to collaborate on **Projects or Open Source Contributions**
 - 📫 How to reach me: **[anupam216825@gmail.com]**
